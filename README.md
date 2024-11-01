@@ -1,6 +1,5 @@
 # Movie-Rating-Prediction
 
-Movie Rating Prediction Using Machine Learning
 Welcome to the Movie Rating Prediction project repository! In this project, I aimed to predict IMDb ratings for movies using regression techniques. This README provides an overview of the project, its objectives, how to use it, and more.
 
 **Introduction**
